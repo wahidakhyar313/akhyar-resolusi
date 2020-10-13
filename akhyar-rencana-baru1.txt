@@ -3,6 +3,9 @@ Rencana Konten Baru
 - Java Android
   * XML
   * Layout
+  * View
 - Kotlin Android
   * ga tau
 - Flutter
+- Phyton
+- React
