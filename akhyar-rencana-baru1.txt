@@ -8,3 +8,4 @@ Rencana Konten Baru
   * ga tau
 - Flutter
 - Phyton
+- React
