@@ -1,3 +1,4 @@
 Akhyar Resolusi
 - Konsisten untuk belajar coding sehari 3 jam
 - Membuat project Java Android
+- Bisa Kerja sebagai Android Developer
