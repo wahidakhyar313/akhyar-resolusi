@@ -1,5 +1,7 @@
 Rencana Konten Baru
 
 - Java Android
+  * XML
+  * Layout
 - Kotlin Android
 - Flutter
